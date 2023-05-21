@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jalvch10/jalvch10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.daily.dev/jose_alvarado"><img src="https://api.daily.dev/devcards/48cfc19ba504475d8490653bb451840f.png?r=ga0" width="400" alt="Jose's Dev Card"/></a>
